@@ -1,0 +1,29 @@
+1.	Background color (guess hex code)
+A.  White
+    Hex code : #FFFFFF
+
+2.	Heading font (thin / medium / bold) 
+A.  Bold
+
+3.	Total colors used (list them)
+A.  White – #FFFFFF
+    Black – #000000
+    Grey – #808080
+    Orange – #FFA500
+    Navy blue – #000080
+    Peach green – #9FE2BF
+    Brown – A52A2A
+
+4.	Logo position (top-left / center etc.) 
+A.  Top-Left
+
+5.	Main button (color, shape, text)
+A.  Color – black / dark gradient
+    Shape – Rounded pill button
+    Text – experience Sarvam 
+
+6.	Any animation? (1 line) 
+A.  Subtle hover animations and smooth section transitions
+
+7.	What feels most professional?
+A.  Clean white layout with strong contrast and clear CTA buttons

@@ -1,0 +1,14 @@
+Tools Used:
+I used ChatGPT as a support tool during the assignment.
+
+Tools Used:
+I used ChatGPT as a support tool during the assignment.
+
+Inputs I gave:
+I mainly used it to validate my approach, structure the assignment properly, and to plan my learning path for state management in Angular as part of my 30-day plan. I did not rely on it for basic concepts, as I already have a foundational understanding of HTML, CSS, and JavaScript.
+
+Outputs received:
+The AI provided structured guidance, suggestions for improving UI layout, and support in organizing my learning plan and written responses, which helped me refine my work.
+
+How I applied it:
+I independently built and understood the core implementation. I reviewed and modified all AI outputs, adjusted design decisions, and rewrote responses in my own words to match my understanding. I used AI as a guide to improve clarity and efficiency, not as a substitute for my thinking.

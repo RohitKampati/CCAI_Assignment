@@ -1,0 +1,26 @@
+1.	Background color (guess hex code) 
+A.  White
+    Hex code : #FFFFFF
+
+2.	Heading font (thin / medium / bold)
+A.  Bold
+
+3.	Total colors used (list them) 
+A.  White – #FFFFFF
+    Green – #00A86B
+    Black / Dark text – #111111
+    Light Grey – #F5F5F5
+
+4.	Logo position (top-left / center etc.) 
+A.  Top-left
+
+5.	Main button (color, shape, text)
+A.  Color – Green
+    Shape – Rounded Rectangle
+    Text –  Try Krutrim
+
+6.	Any animation? (1 line) 
+A.  Scroll animations and hover effects
+
+7.	What feels most professional?
+A.  Structured layout with clear product sections
