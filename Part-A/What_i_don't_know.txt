@@ -3,8 +3,7 @@ I don’t fully understand state management in Angular
 I am unable to fully comprehend state management in Angular, particularly how state management works between various components sharing data in an efficient manner. State management is essential in building College Circle AI as it will require handling various things related to users. These include managing interactions and user data. The absence of state management may lead to issues such as difficult maintenance of the project as well as bugs. My next step in learning angular is to focus on this aspect of the language within 30 days.
 
 30 - days Plan :
-Week 1:
-I will revise Angular fundamentals like components, services, and dependency injection. I will build a small app where I pass data between two components using a service.
+
 
 Week 2:
 I will focus on using services for state management. I will create a simple dashboard app where user data is stored in a service and accessed across multiple components.
